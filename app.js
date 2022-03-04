@@ -70,7 +70,7 @@ function getthewave(e) {
       // Read file as an ArrayBuffer, important !
       reader.readAsArrayBuffer(file);
     }
-  }, 3000);
+  }, 2000);
   initsets();
 }
 
